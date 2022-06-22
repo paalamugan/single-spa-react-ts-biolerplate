@@ -10156,7 +10156,7 @@ webpack-cli@^4.8.0:
     rechoir "^0.7.0"
     webpack-merge "^5.7.3"
 
-webpack-config-single-spa-react-ts@^4.0.0, webpack-config-single-spa-react-ts@^4.0.3:
+webpack-config-single-spa-react-ts@^4.0.3:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/webpack-config-single-spa-react-ts/-/webpack-config-single-spa-react-ts-4.0.3.tgz#820fc8547a4f8b782c89cd2c8200bff5a94043fb"
   integrity sha512-IgqrVIUKE4kVSVsrFGAa01VaqkycnP0yGy12fRHsgSE07DJBk7It5L+LrfApNC6DDWzNOvUJPZ/ogPMWQ+PaCA==
@@ -10164,14 +10164,14 @@ webpack-config-single-spa-react-ts@^4.0.0, webpack-config-single-spa-react-ts@^4
     webpack-config-single-spa-react "4.0.3"
     webpack-config-single-spa-ts "4.1.2"
 
-webpack-config-single-spa-react@4.0.3, webpack-config-single-spa-react@^4.0.0, webpack-config-single-spa-react@^4.0.3:
+webpack-config-single-spa-react@4.0.3, webpack-config-single-spa-react@^4.0.3:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/webpack-config-single-spa-react/-/webpack-config-single-spa-react-4.0.3.tgz#8f3c3e7c632018399d1966b8fcdd7fe6342904be"
   integrity sha512-rKMKWDW74rhlzZASRc0A9Y3KFJoWQEhA9MDcrssjxXgiq6r6BUkj1fXFagXBFCpGUoKyrYDKUSs0uc+8SJJPTA==
   dependencies:
     webpack-config-single-spa "5.2.0"
 
-webpack-config-single-spa-ts@4.1.2, webpack-config-single-spa-ts@^4.0.0, webpack-config-single-spa-ts@^4.1.2:
+webpack-config-single-spa-ts@4.1.2, webpack-config-single-spa-ts@^4.1.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/webpack-config-single-spa-ts/-/webpack-config-single-spa-ts-4.1.2.tgz#5eb4f1b1a2c96de323c8dbb912c0798c7db2df0c"
   integrity sha512-H7INbFQgu9+H0IAOqsQNw/GljxWDdzwyEoyDJ4818V5RATm7IvcNKBuxEKilKK/LvgVeXB+29ZOOrqowSxBiFQ==
