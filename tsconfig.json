@@ -1,0 +1,22 @@
+{
+  "extends": "ts-config-single-spa",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "declarationDir": "dist",
+    "skipLibCheck": true,
+    "paths": {
+      "@app/*": [
+        "./src/*"
+      ]
+    }
+  },
+  "files": [
+    "src/myorg-project.tsx"
+  ],
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "src/**/*.test*"
+  ]
+}
